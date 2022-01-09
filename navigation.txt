@@ -1,5 +1,8 @@
 menu
 test
+-   test A
+-   test B
+-   test C
+items
 -   item 1
 -   item 2
-items
