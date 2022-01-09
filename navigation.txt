@@ -1,7 +1,5 @@
 menu
 test
+-   item 1
+-   item 2
 items
-products
-services
-shop
-help
