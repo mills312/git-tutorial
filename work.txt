@@ -1,8 +1,7 @@
 The first section
 
-table||||||
-
 second section
 
 third section
 
+fourth section
